@@ -6,3 +6,5 @@ akshare>=1.10.0
 ta-lib>=0.4.0
 scipy>=1.7.0
 scikit-learn>=0.24.0
+pyyaml>=6.0
+loguru>=0.6.0

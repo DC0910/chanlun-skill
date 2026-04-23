@@ -17,8 +17,9 @@
 ### 入口配置
 ```yaml
 entry:
-  main: chanlun_stock_analysis.skill:ChanLunSkill
-  config: config/skill_config.yaml
+  main: chanlun_stock_analysis.skill:create_skill
+  module: chanlun_stock_analysis
+  class: ChanLunSkill
 ```
 
 ### 依赖配置
